@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="jrvelani_github.png" >
+</p>
+
 # jrvelani
 <sub>*data analyst and futures researcher*</sub>
 
@@ -11,7 +15,7 @@
 • Analysis of financial statements and company performance <br> 
 • Python <br> 
 • Futures Literacy <br> 
-• Machine Learning. 
+• Machine Learning
 
 **Links:**
 * [LinkedIn](https://https://www.linkedin.com/in/jrvelani/)

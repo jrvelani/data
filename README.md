@@ -18,7 +18,7 @@
 • Machine Learning
 
 **Links:**
-* [LinkedIn](https://https://www.linkedin.com/in/jrvelani/)
+* [LinkedIn](https://www.linkedin.com/in/jrvelani/)
 
 # Projects:
 <sub>*developed projects*</sub>

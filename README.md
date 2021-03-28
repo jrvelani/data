@@ -18,4 +18,3 @@
 
 # Projects:
 <sub>*developed projects*</sub>
-

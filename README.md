@@ -8,7 +8,7 @@
 **Professional qualification:** <br>
 • Graduated in legal and accounting sciences <br>
 • Graduate degree in tax law <br>
-• MBA in financial management, controllership and auditing.
+• MBA in financial management, controllership and auditing
 
 **Learning cycles and soft skills:** <br>
 • Tax Law <br> 

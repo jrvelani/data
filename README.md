@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="github_cover.png" >
+  <img src="crv.jpg" >
 </p>
 
 # jrvelani

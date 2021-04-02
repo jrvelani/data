@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="crv.jpg" >
+  <img src="cvr.jpg" >
 </p>
 
 # jrvelani

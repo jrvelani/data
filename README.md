@@ -3,7 +3,7 @@
 </p>
 
 # jrvelani
-<sub>*data-driven analyst accountant and futures researcher*</sub>
+<sub>*data-based business analyst and futures researcher*</sub>
 
 **Professional qualification:** <br>
 • Graduated in legal and accounting sciences <br>

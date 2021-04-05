@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="cvr_png (2).png" >
+  <img src="cvr_png (3).png" >
 </p>
 
 # jrvelani

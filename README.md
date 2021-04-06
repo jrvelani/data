@@ -13,6 +13,7 @@
 **Learning cycles and soft skills:** <br>
 • Tax Law <br> 
 • Analysis of financial statements and companies performance <br> 
+• Power BI <br> 
 • Python <br> 
 • Futures Literacy <br> 
 • Machine Learning
